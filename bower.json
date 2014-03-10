@@ -1,0 +1,25 @@
+{
+  "name": "fh.pie",
+  "version": "1.0",
+  "homepage": "https://github.com/fh-bower-packages/fh.pie",
+  "authors": [
+    "Layton Whiteley <layton.whiteley@gmail.com>"
+  ],
+  "description": "css3 rendering for ie",
+  "main": "pie.js",
+  "keywords": [
+    "pie",
+    "css",
+    "css3",
+    "render",
+    "ie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
